@@ -1,0 +1,21 @@
+﻿Este final cuenta con tres archivos .sql
+1. 
+GDatos_cosplay_Script_Para_Hacer_DDL.sql
+2. 
+GDatos_cosplay_Script_Para_Hacer_DML.sql
+3. 
+GDatos_cosplay_SQL_resolucion.sql 
+
+
+Para realizar la consigna de SQL:
+
+1. Para realizar la práctica crear la base de datos usando GDatos_cosplay_Script_Para_Hacer_DDL.sql, resuelva entonces el ejercicio de DDL propuesto en el enunciado.
+
+
+2. Una vez finalizado esto recree la db con el script GDatos_cosplay_Script_Para_Hacer_DML.sql, allí puede comparar las tablas que creó en el paso 1 para el ejercicio de DDL con las creadas por este script.
+
+
+3. Puede utilizar la base de datos que acaba de recrear en el paso dos para los enunciados de SQL de DML.
+
+
+4. Puede comparar su resolución del DML con las propuestas en el script GDatos_cosplay_SQL_resolucion.sql
